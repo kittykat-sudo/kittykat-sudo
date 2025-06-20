@@ -80,6 +80,9 @@ I'm a proactive and dedicated learner, who has significantly honed my skills, de
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittykat-sudo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Theekshana's Top Languages"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 <div align="center">
