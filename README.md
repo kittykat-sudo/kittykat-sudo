@@ -1,16 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/images/hi.gif" width="30px" alt="Hi">
   <h1>Hey there, I'm Theekshana Dissanayake!</h1>
-  <p>A passionate learner and developer, continually growing my skills and building impactful projects.</p>
+  <p>I'm a proactive and dedicated learner, who has significantly honed my skills, demonstrating an impressive **75% growth in just 6 months**.</p>
 </div>
-
----
-
-### 🚀 About Me
-
-I'm a proactive and dedicated learner, who has significantly honed my skills, demonstrating an impressive **75% growth in just 6 months**. My passion lies in crafting robust solutions and constantly expanding my technical horizons.
-
----
 
 ### 🌐 Let's Connect!
 
