@@ -64,11 +64,11 @@ A passionate and proactive learner, I've driven my skills, achieving an impressi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kittykat-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Theekshana's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kittykat-sudo&show_icons=true&hide_border=true&include_all_commits=false&count_private=false" alt="Theekshana's GitHub Stats"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kittykat-sudo&theme=dark&hide_border=false" alt="Theekshana's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kittykat-sudo&show_icons=true&hide_border=true" alt="Theekshana's GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittykat-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Theekshana's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittykat-sudo&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Theekshana's Top Languages"/>
 </div>
 
 ---
