@@ -81,6 +81,8 @@ I'm a proactive and dedicated learner, who has significantly honed my skills, de
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ---
