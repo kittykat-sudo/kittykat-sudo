@@ -1,31 +1,21 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/images/hi.gif" width="30px" alt="Hi">
-  <h1>Hey there, I'm Theekshana Dissanayake!</h1>
-  <p>I'm a proactive and dedicated learner who has significantly honed my skills, demonstrating an impressive 75% growth in just 6 months.</p>
-</div>
+# 👋 Hey there, I'm Theekshana Dissanayake
+
+I'm a **proactive and dedicated learner** with a strong passion for **full-stack development**, **AI**, and **digital creativity**. I’ve demonstrated over **75% skill growth in just 6 months**, continuously striving to build meaningful and impactful solutions.
 
 ---
 
-### 🚀 About Me
+## 🌐 Connect with Me
 
-Hi, I'm Theekshana 👋  
-I'm a passionate and fast-growing developer with a strong interest in full-stack development, AI, and digital creativity. I focus on solving real-world problems through technology, contributing to open-source, and constantly expanding my knowledge in both development and design.
-
----
-
-### 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.behance.net/theekshdissana" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white&style=for-the-badge" alt="Behance">
+<p align="left">
+  <a href="https://www.behance.net/theekshdissana" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="30" height="30"/>
   </a>
-  <a href="https://instagram.com/theeshdeawesome" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/theekshanaa-dissanayake-9536bb249" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/theekshanaa-dissanayake-9536bb249" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  &nbsp;
+  <a href="https://instagram.com/theeshdeawesome" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
 </p>
-
----
-
