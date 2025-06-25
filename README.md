@@ -1,8 +1,17 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/images/hi.gif" width="30px" alt="Hi">
   <h1>Hey there, I'm Theekshana Dissanayake!</h1>
-  <p>I'm a proactive and dedicated learner, who has significantly honed my skills, demonstrating an impressive 75% growth in just 6 months.</p>
+  <p>I'm a proactive and dedicated learner who has significantly honed my skills, demonstrating an impressive 75% growth in just 6 months.</p>
 </div>
+
+---
+
+### 🚀 About Me
+
+Hi, I'm Theekshana 👋  
+I'm a passionate and fast-growing developer with a strong interest in full-stack development, AI, and digital creativity. I focus on solving real-world problems through technology, contributing to open-source, and constantly expanding my knowledge in both development and design.
+
+---
 
 ### 🌐 Let's Connect!
 
@@ -22,7 +31,7 @@
 
 ### 💻 My Tech Arsenal
 
-#### Languages
+#### 🧠 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +41,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
-#### Frameworks & Libraries
+#### 🧩 Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -40,20 +49,20 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-#### Databases
+#### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Tools & Platforms
+#### 🛠️ Tools & Platforms
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Design & Multimedia
+#### 🎨 Design & Multimedia
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
@@ -62,4 +71,4 @@
 
 ---
 
-
+⭐️ Inspired by developers who share and grow together!
