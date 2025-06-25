@@ -2,7 +2,6 @@
 
 I'm a **proactive and dedicated learner** with a strong passion for **full-stack development**, **AI**, and **digital creativity**. I’ve demonstrated over **75% skill growth in just 6 months**, continuously striving to build meaningful and impactful solutions.
 
----
 
 ## Connect with Me
 
