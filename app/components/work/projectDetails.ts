@@ -44,6 +44,7 @@ export type ProjectProps = {
   available: boolean;
 };
 
+
 export const projects = [
   {
     id: 0,
@@ -89,8 +90,8 @@ export const projects = [
     id: 1,
     name: "ChatDrop Mobile Application",
     description:
-      "SCS3212 - Mobile App Development Group Assignment. Temporary chat application with QR code pairing, real-time messaging, voice messages, offline support, and friend management system using clean architecture.",
-    technologies: [SiFlutter, SiFirebase, SiSqlite], // SiFlutter is properly used here
+      "Mobile App Development Group Assignment. Temporary chat application with QR code pairing, real-time messaging, voice messages, offline support, and friend management system using clean architecture.",
+    technologies: [SiFlutter, SiFirebase, SiSqlite],
     techNames: ["Flutter", "Firebase", "SQLite"],
     techLinks: [
       "https://flutter.dev/",
