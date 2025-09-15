@@ -1,17 +1,4 @@
 import {
-  SiCplusplus,
-  SiFramer,
-  SiGithub,
-  SiNeovim,
-  SiNextdotjs,
-  SiReact,
-  SiRust,
-  SiTailwindcss,
-  SiTypescript,
-  SiZig,
-  SiPython,
-  SiNodedotjs,
-  SiExpress,
   SiSpring,
   SiRedis,
   SiFirebase,
@@ -27,6 +14,7 @@ import {
   SiJavascript,
   SiHtml5,
   SiCss3,
+  SiPython,
   SiFlask,
 } from "react-icons/si";
 import { IconType } from "react-icons";
@@ -43,7 +31,6 @@ export type ProjectProps = {
   image: string;
   available: boolean;
 };
-
 
 export const projects = [
   {
