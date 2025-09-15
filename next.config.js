@@ -5,7 +5,6 @@ const outputDir = process.env.BRANCH === 'dev' ? 'dev' : '.next';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  distDir: outputDir,
   compiler: {
     reactRemoveProperties: isProduction,
     removeConsole: isProduction,
