@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     title: "kittykat-sudo - Designer and Developer",
     description:
       "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
-    url: "https://www.seekvisualartist.com/",
+    url: "https://drive.google.com/file/d/1lewR-BLKyIAmHWtMm1w6zAv3P0JrFqvk/view?usp=sharing",
     siteName: "www.seekvisualartist.com",
     images: [
       {
